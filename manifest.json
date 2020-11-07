@@ -1,0 +1,28 @@
+{
+	"format_version": 2,
+	"header": {
+		"description": "Nice shader designed by Alan, for New Caledonia, for phones. Designed for the people, by the people.",
+		"name": "New Caledonia Shader - 0.0.1",
+		"uuid": "3d706b1d-8cdf-4add-8e92-ff815fc3ce91",
+		"version": [0, 0, 1],
+		"min_engine_version": [1, 14, 0]
+	},
+	"modules": [{
+		"description": "Nice shader designed by Alan, for New Caledonia, for phones. Designed for the people, by the people.",
+		"type": "resources",
+		"uuid": "b8bdde6c-8bb3-4944-8535-74ea2438926d",
+		"version": [1, 0, 0]
+	}],
+	"subpacks": [
+		{
+			"folder_name": "dark",
+			"name": "Dark",
+			"memory_tier": 1
+		},
+		{
+			"folder_name": "lite",
+			"name": "Lite",
+			"memory_tier": 2
+		}
+	]
+}
